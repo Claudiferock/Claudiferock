@@ -1,7 +1,8 @@
-### Hello there! :shipit: 
+# Hello there!
 
-I'm Claudio an 🌎 citizen, born in Chile and living in Finland ready to jumpstart and rock a developer carrer :godmode:
+:shipit: I'm Claudio an 🌎 citizen, born in Chile and living in Finland ready to jumpstart and rock a developer carrer.
 
+<h2> :godmode: Let's create something!<h2>
 <img src="https://github.com/Claudiferock/Claudiferock/blob/master/IMG_20181109_090457_295(2).jpg" alt="drawing" width="512">
 
 <!--
