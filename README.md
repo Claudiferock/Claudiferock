@@ -1,10 +1,10 @@
 # 🙋‍♂️ Hello there!
 
-I'm Claudio an 🌎 citizen, Chilean born and living in Finland. I love software development, drawing and having a good time with people (weather its during work or leisure)
+I'm Claudio an 🌎 citizen, Chilean born and living in Finland. I love software development, drawing and having a good time with people (at work or just chilling)
 
-### Thanks for passing by! Have a good day!!
+### Feel free to look around and connect. Thanks for passing by! 😃 </br> Have a good day!!
 
-<img src="https://github.com/Claudiferock/Claudiferock/blob/master/IMG_20181109_090457_295(2).jpg" alt="drawing" width="512">
+<img src="https://github.com/Claudiferock/Claudiferock/blob/master/IMG_20181109_090457_295(2).jpg" alt="drawing" width="480">
 
 <!--
 **Claudiferock/Claudiferock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
