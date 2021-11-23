@@ -1,10 +1,12 @@
 # 🙋‍♂️ Hello there!
 
 I'm Claudio an 🌎 citizen, Chilean born and living in Finland. I love software development, drawing and having a good time with people (at work or just chilling)
-🔭 I normally work with React, JavaScript, Css and Html, but I have also worked with React Native, Java, SQL and learned some Node, Mocha, D3 and Vue.
-🌱 I’m currently learning C++ and data analysis with Phyton.
 
-### Feel free to look around and connect. Thanks for passing by! 😃 </br> Have a good day!!
+I normally work with React, JavaScript, Css and Html, but I have also worked with React Native, Java, SQL and learned some Node, Mocha, D3 and Vue. 🌱 I’m currently learning C++ and data analysis with Phyton.
+</br>
+
+#### Feel free to look around and connect. Thanks for passing by 😃 Have a good day!!
+</br>
 
 <img src="https://github.com/Claudiferock/Claudiferock/blob/master/IMG_20181109_090457_295(2).jpg" alt="drawing" width="480">
 
