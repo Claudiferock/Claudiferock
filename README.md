@@ -6,7 +6,7 @@ I'm Claudio an 🌎 citizen, Chilean born and living in Finland. I love software
 
 ### I normally work with 👨‍💻
 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?logo=javascript&logoColor=333333)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?&logo=css3)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)
