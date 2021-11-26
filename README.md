@@ -36,8 +36,9 @@ I'm Claudio an 🌎 citizen, Chilean born and living in Finland. I love software
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudio-rodr%C3%ADguez-v%C3%A1squez-8b32b452/) 
 [![My site](https://img.shields.io/badge/-My_Page-ff456a?style=for-the-badge)](https://claudiferock.github.io/Page/)
 
+<!--
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Claudiferock&theme=blue-green)
-
+-->
 
 <!--
 **Claudiferock/Claudiferock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
