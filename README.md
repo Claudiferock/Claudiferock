@@ -27,7 +27,8 @@ I'm Claudio an 🌎 citizen, Chilean born and living in Finland. I love software
 
 #### I’m currently learning 🌱
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=#c29d7f)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=ff9d00)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=c29d7f)
 ![Phyton](https://img.shields.io/badge/Python-14354C?logo=python&logoColor=ffdf76)
 
 #
