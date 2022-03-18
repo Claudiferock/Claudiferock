@@ -24,10 +24,10 @@ I'm Claudio an 🌎 citizen, Chilean born and living in Finland. I love software
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)
 ![Mocha](https://img.shields.io/badge/Mocha-white?logo=mocha&logoColor=#c29d7f)
 ![D3](https://img.shields.io/badge/D3-white?logo=d3.js&logoColor=#d4742b)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=ff9d00)
 
 #### I’m currently learning 🌱
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=ff9d00)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=c29d7f)
 ![Phyton](https://img.shields.io/badge/Python-14354C?logo=python&logoColor=ffdf76)
 
