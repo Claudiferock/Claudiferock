@@ -2,7 +2,7 @@
 
 # 🙋‍♂️ Hello there!
 
-I'm Claudio an 🌎 citizen, Chilean born and living in Finland. I love software development, drawing and having a good time with people (at work or just chilling)
+I'm Claudio a chilean guy radicated in Finland. I love software and frontend development as well as drawing and having a good time with people wether that's at work or just chilling :)
 
 ### I normally work with 👨‍💻
 
@@ -41,7 +41,7 @@ I'm Claudio an 🌎 citizen, Chilean born and living in Finland. I love software
 
 #
 
-#### Feel free to look around and connect 💬 </br> Thanks for passing by 😃 Have a good day!!
+#### Feel free to look around and connect 💬 </br> Thanks for passing by and have a great day!!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudio-rodr%C3%ADguez-v%C3%A1squez-8b32b452/) 
 [![My site](https://img.shields.io/badge/-My_Page-ff456a?style=for-the-badge)](https://claudiferock.github.io/Page/)
 
